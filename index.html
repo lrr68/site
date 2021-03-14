@@ -1,0 +1,93 @@
+---
+layout: home
+title: Lucca Augusto
+---
+<div class="main">
+	{% include window.html %}
+	<div class="central cool-red neon">
+		<div class="cabecalho blackground">
+			<img src="images/lucca-full-synth.jpg" class="nome fleft"/>
+			<img src="images/FDP_Synth.jpg" class="fdp-logo fright mobile-hidden small-width" onclick="location.href='/fdp.html'"/>
+		</div>
+
+		<h2> Meus Trem </h2>
+		<ul>
+			<li><img class="icone" src="images/icons/github-icon.png"/>Github: <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a></li>
+			<li><img class="icone" src="images/icons/spotify-icon.png"/>Spotify: <a href="{{ site.url_spot}}" target="_blank">{{ site.user_spot }}</a></li>
+			<li><img class="icone" src="images/icons/mal.ico"/>MyAnimeList: <a href="{{ site.url_mal }}" target="_blank">{{ site.user_mal }}</a></li>
+			<li><img class="icone" src="images/icons/favicon.ico"/>Website: <a href="{{ site.url }}" target="_blank">{{ site.url }}</a> </li>
+			<li><img class="icone" src="images/icons/amazon-icon.png"/><a href="{{ site.wish_amazon }}" target="_blank">Wishlist da Amazon</a> </li>
+			<li><img class="icone" src="images/icons/orkut-icon.png"/><a href="{{ site.url_orkut }}" target="_blank">Orkut</a> </li>
+			<li><img class="icone" src="images/icons/download-icon.png"/><a href="/downloads/" target="_blank">Downloads</a> </li>
+			<li><img class="icone" src="images/icons/agenda-icon.png"/><a href="/agenda.html">Agenda</a></li>
+		</ul>
+
+		<div class="bipartido">
+			<div class="parte">
+				<a href="{{ site.url_pds }}" target="_blank">
+					<h2> Papo de Sauna </h2>
+				</a>
+				<p>
+					Papo de Sauna é um podcast idealizado por mim, Felipe e Churros.
+					Churros não participa ativamente do podcast mais, mas outros membros apareceram.
+					Sem tema definido, cada episódio uma conversa.
+					Um papo de sauna mesmo, as vezes cabeça as vezes nada a ver.
+				</p>
+			</div>
+			<div class="parte">
+				<h2>
+					PIADA AUTORAL
+				</h2>
+				<!--piada selecionada aleatoriamente no js-->
+				<p id="p-piada"></p>
+			</div>
+		</div>
+
+		<div class="parte">
+			<h2>
+				Um salve pro maior apoiador do meu site:
+			</h2>
+			<pre>
+   _____       __              __  __     _      __
+  / ___/____ _/ /   _____     / / / /____(_)__  / /
+  \__ \/ __ `/ / | / / _ \   / / / / ___/ / _ \/ /
+ ___/ / /_/ / /| |/ /  __/  / /_/ / /  / /  __/ /
+/____/\__,_/_/ |___/\___/   \____/_/  /_/\___/_/
+			</pre>
+		</div>
+
+		<a href="/blog.html">
+			<h2> Blog </h2>
+		</a>
+		{% include last_posts.html %}
+
+		<h2> Meus Outros Trem </h2>
+		<div class="tripartido">
+			<div class="parte">
+				<a href="{{ site.url_port }}" target="_blank">
+					<img src="images/portfolio.gif" class="img-skate" alt="Portfolio"/>
+				</a>
+			</div>
+			<div class="parte">
+				<a href="skate.html">
+					<img src="images/skate-or-die.png" class="img-skate" alt="SKATE"/>
+				</a>
+			</div>
+			<div class="parte">
+				<a href="wallpapers.html">
+					<img src="images/wallpapers.png" class="img-skate" alt="WALLPAPERS"/>
+				</a>
+			</div>
+			<div class="parte">
+				<a href="/ded.html">
+					<img src="images/dedlogo.png" class="img-skate" alt="DUNGEONS AND DRAGONS"/>
+				</a>
+			</div>
+		</div>
+		<div class="tripartido">
+		</div>
+		<p class="font15">
+			Queria um maravilhoso site pra você também? Contrate meus serviços de maravilhoso criador de sites.
+		</p>
+	</div>
+</div>

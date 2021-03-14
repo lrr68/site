@@ -1,0 +1,400 @@
+html{
+	min-height: 100%;
+}
+body{
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+h2{
+	border-bottom: 2px solid;
+	color: black;
+}
+.palmtree{
+	background-image: url('/images/background-2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.take-me-away{
+	background-image: url('/images/vaporwhat.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.random{
+	background-image: url('/images/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.skate{
+	background-image: url('/images/skulls-background-2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.title{
+	padding-left: 5%;
+}
+
+.rodape{
+	margin-top: -4px;
+	position: fixed;
+	bottom: 0;
+	z-index: 1001;
+}
+
+.central{
+	margin: 3% auto;
+	width: 60%;
+	height: 90%;
+	padding: 15px;
+	border: double;
+	border-width: 10px;
+
+}
+
+.tcenter{
+	text-align: center;
+}
+
+/* DIVS */
+.neon{
+    box-shadow: 0px 0px 20px 20px #00f3ff;
+}
+.neon-y{
+    box-shadow: 0px 0px 20px 20px #ffb100;
+}
+.fleft{
+	float: left;
+}
+.fright{
+	float: right;
+}
+.parte{
+	text-align: center;
+	padding: 0 5pt;
+}
+.bipartido{
+	display: inline-flex;
+}
+.bipartido div{
+	width: 50% !important;
+}
+.tripartido{
+	display: inline-flex;
+}
+.tripartido div{
+	width: 33% !important;
+}
+.w100{
+	width: 100%;
+}
+.h100{
+	height: 100%;
+}
+.thumbnail{
+	float: left;
+	margin: 0 20px 20px 0;
+	position: relative;
+}
+.item{
+	width: 400px;
+	height: 400px;
+	display: inline-grid;
+}
+
+/*IMAGENS*/
+.me{
+	width: 100%;
+}
+.img-skate{
+	width: 80%;
+}
+.time{
+	width: 300px;
+	position: absolute;
+	bottom: 1%;
+	left: 2%;
+}
+.back-button{
+	width: 250pt;
+	position: absolute;
+	top: 15pt;
+	left: 15pt;
+}
+.nome{
+	height: 80pt;
+}
+.fdp-logo{
+	margin-left: 50%;
+}
+.nome:hover{
+	cursor: pointer;
+}
+.composicao{
+	position: absolute;
+	top: 230pt;
+	left: 150pt;
+}
+.icone{
+	width: 24px;
+}
+#random{
+	width: 485px;
+	position: absolute;
+	left: 240pt;
+	z-index: 550;
+	top: 70pt;
+}
+#skate{
+	width: 400px;
+	position: absolute;
+	left: -80pt;
+	z-index: 550;
+}
+#misc{
+	width: 350px;
+	position: absolute;
+	left: 0;
+	top: 165pt;
+	z-index: 550;
+}
+/*ALIGNMENT*/
+.to-the-right{
+	padding-left: 5pt;
+}
+.to-the-left{
+	padding-right: 5pt;
+}
+.cabecalho{
+	width: 103%;
+	display: inline-flex;
+	margin: -15px;
+}
+.tiny-margin-top{
+	margin-top: 2pt;
+}
+.tiny-margin-bottom{
+	margin-bottom: 2pt;
+}
+/*COLORS*/
+.blackground{
+	background-color: #000;
+}
+.synth-purple{
+	background-color: #8500cb !important;
+}
+.cool-red{
+	background-color: #b5dae0;
+}
+.cool-yellow{
+	background-color: #f5efc7;
+}
+.turquoise{
+	color: #00ffd3;
+}
+.greyish{
+	color: #f2efef;
+}
+
+/*FONTS*/
+.font10{
+	font-size: 10px;
+}
+.font12{
+	font-size: 12px;
+}
+.font15{
+	font-size: 15px;
+}
+.font18{
+	font-size: 18px;
+}
+.windowContent > p{
+	font-size: 15pt;
+}
+/*SIZE*/
+.full-width{
+	width: 100%;
+}
+.small-width{
+	width: 68px;
+}
+.smallest-height{
+	height: 25px;
+}
+
+/*WINDOW*/
+.window{
+	width: 480px;
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+	font-size: 0.9em;
+	position: absolute;
+	overflow: hidden;
+	z-index: 999;
+	border-radius: 5px;
+	right: 35%;
+	top: 15%;
+}
+.take-me-away > .window{
+	width:60%;
+	margin-bottom: 3%;
+	right: 20%;
+}
+.random > .window{
+	width:60%;
+	margin-bottom: 3%;
+	right: 20%;
+}
+.fotos > .window{
+	width:70%;
+	margin-bottom: 3%;
+	right: 15%;
+}
+.window div{
+	position:relative;
+}
+.window .window_top{
+	width:100%;
+	height:25px;
+	position:relative;
+	background-color: #0d10e9;
+	display: inline-flex;
+}
+.window .top_buttons{
+	float:right;
+	z-index:10;
+	position:absolute;
+	right:0px;
+	width:52px;
+	padding-top: 2px;
+}
+.top_buttons img{
+	float:left;
+	padding-left:3px;
+	width: 21px;
+}
+.windowMiddle{
+	border-left:3px solid #0d10e9;
+}
+.windowContent{
+	border-right:3px solid #0d10e9;
+	padding:5px;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	background-color:#f2efef;
+}
+.window_bottom{
+	border-left: 3px solid #0d10e9;
+	border-right:3px solid #0d10e9;
+	border-bottom: 3px solid #0d10e9;
+	position:relative;
+	height:0px;
+	background-color:#FFFFFF;
+}
+.window_bottom img{
+	float:right;
+}
+
+.galeria{
+	margin: 0 5% auto;
+	text-align: center;
+	color: black;
+	padding: 0 15pt 0 15pt;
+}
+.container-img{
+	width: 25%;
+	max-height: 25%;
+	overflow: hidden;
+	margin: 2pt;
+}
+.imagem{
+	width: 100%;
+	display: table-cell;
+}
+.fundo-neutro{
+	/* temporada 1 */
+	background-color: #ecb44d;
+    box-shadow: 0px 0px 20px 20px #ff8100;
+}
+.linha{
+	width: 100%;
+	display: inline-flex;
+}
+.font10{
+	font-size: 10pt;
+}
+.font15{
+	font-size: 15pt;
+}
+.font20{
+	font-size: 20pt;
+}
+.font25{
+	font-size: 25pt;
+}
+.m25{
+	margin: 0 25pt;
+}
+.mauto{
+	margin: auto;
+}
+.w25{
+	width: 25%;
+}
+.w30m{
+	max-width: 30%;
+}
+.w50{
+	width: 50%;
+}
+.w75{
+	width: 75%;
+}
+.w100{
+	width: 100%;
+}
+.h100{
+	height: 100%;
+}
+
+/*RESPONSIVE*/
+@media (max-width: 808px){
+	.cabecalho{
+		width: 110%;
+	}
+	.main > .window{
+		display: none;
+	}
+	.central{
+		margin: 20% auto;
+		width: 85%;
+		height: 90%;
+		padding: 15px;
+		border: double;
+		border-width: 10px;
+
+	}
+	.back-button{
+		width: 150pt;
+		position: absolute;
+		top: 15pt;
+		left: 15pt;
+	}
+	.take-me-away > .window{
+		width: 80%;
+		margin-bottom: 3%;
+		right: 10%;
+		top: 10%;
+	}
+	.fotos > .window{
+		width: 95%;
+		margin-bottom: 3%;
+		right: 2%;
+	}
+	.mobile-hidden{
+		display:none;
+	}
+}

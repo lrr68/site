@@ -1,0 +1,21 @@
+---
+layout: fotos
+title: Fotos de Skate
+---
+
+{% for foto in site.data.skate%}
+{% assign titulo = foto.nome | split: '.' %}
+<div class="thumbnail">
+	<div class="item">
+		{% if titulo[1] == 'mp4' %}
+				<video  class="w100 h100" controls preload="auto">
+					<source src="{{ foto.link }}" type="video/mp4">
+				</video>
+		{% else %}
+			<a href="{{ foto.link }}" target="blank">
+				<img src="{{ foto.link }}" class="w100 h100" alt="{{ foto.nome }}"/>
+			</a>
+		{% endif %}
+	</div>
+</div>
+{% endfor %}
