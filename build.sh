@@ -27,4 +27,4 @@ bundle update &&
 JEKYLL_ENV=production &&
 bundle exec jekyll build &&
 
-cd _site && rm *.sh && rm indice-da-vida.md && cd ..
+cd _site && rm *.sh && cd ..
