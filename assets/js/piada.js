@@ -16,8 +16,9 @@ function piada() {
 		"Pegar sauna sempre me traz muita paz e humidade.",
 		"Financimento, pra você, que quer financiar até a construção",
 		"Não fui aceito numa entrevista de emprego por que não sou articulado o suficiente.</br>Colocar o pé atrás da cabeça foi demais pra mim.",
+		"Outro dia minha mãe queria fazer um chá e me pediu pra buscar umas folhas. Ela ficou muito confusa quando eu voltei da papelaria",
 	]
-	pPiada = document.getElementById('p-piada'); 
+	pPiada = document.getElementById('p-piada');
 	if (pPiada) {
 		pPiada.innerHTML=piadas[Math.floor((Math.random() * (100))) % (piadas.length)];
 	}
