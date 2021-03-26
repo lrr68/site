@@ -25,6 +25,7 @@ Por enquanto não tem nada, vou fazer uma lista top um dia.
 + Danger Days The True Lives of The Fabulous Killjoys: My Chemical Romance
 + Sublime - Sublime
 + Pacific Daydream - Weezer
++ The Calm before the Calm - The Lunar Effect
 
 # Atualmente ouvindo:
 ## Stoner rock
