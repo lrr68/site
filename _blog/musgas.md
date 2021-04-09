@@ -4,12 +4,20 @@ title: Músicas favoritas
 categories: music
 ---
 
-Músicas e albuns que eu curto muito, recomendo demais.
-Confiram meu spotify pra mais playlists incríveis.
-Por enquanto não tem nada, vou fazer uma lista top um dia.
+Uma listinha de artistas e albuns que estou escutando no momento, artistas que gosto mas esqueço que existem e uma listinha dos meus albums favoritos da vida. Acompanha aqui pra sugestões épicas de músicas.
 
 # Spotify:
 + [luccaugusto](https://open.spotify.com/user/luccaugusto)
+
+# Atualmente ouvindo:
+## Stoner rock
+Especialmente:
++ Warish
++ Petyr
++ 1000mods
++ The Vintage Caravan
+
+[Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
 
 # Artistas que eu amo mas sempre esqueço que existem por que viciei em um gênero (normalmente metal, punk e afins):
 + Caravan Palace
@@ -17,6 +25,7 @@ Por enquanto não tem nada, vou fazer uma lista top um dia.
 + Pixies
 + Regina Spektor
 + Sublime
++ The Vintage Caravan (viciado atualmente)
 
 # Melhores albuns em minha humilde opinião:
 + Pinkerton - Weezer
@@ -27,11 +36,3 @@ Por enquanto não tem nada, vou fazer uma lista top um dia.
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
 
-# Atualmente ouvindo:
-## Stoner rock
-Especialmente:
-+ Warish
-+ Petyr
-+ 1000mods
-
-[Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
