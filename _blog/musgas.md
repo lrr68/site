@@ -12,10 +12,10 @@ Uma listinha de artistas e albuns que estou escutando no momento, artistas que g
 # Atualmente ouvindo:
 ## Stoner rock
 Especialmente:
++ The Vintage Caravan
 + Warish
 + Petyr
 + 1000mods
-+ The Vintage Caravan
 
 [Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
 
@@ -25,14 +25,13 @@ Especialmente:
 + Pixies
 + Regina Spektor
 + Sublime
-+ The Vintage Caravan (viciado atualmente)
 
-# Melhores albuns em minha humilde opinião:
+# Melhores albuns em minha humilde opinião (sem ordem específica):
 + Pinkerton - Weezer
++ Monuments - The Vintage Caravan
 + Hybrid Theory - Linkin Park
 + Chronologic - Caravan Palace
-+ Danger Days The True Lives of The Fabulous Killjoys: My Chemical Romance
++ Danger Days The True Lives of The Fabulous Killjoys - My Chemical Romance
 + Sublime - Sublime
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
-
