@@ -9,6 +9,7 @@ Uma lista dos livros que tenho.
 ## Não ficção:
 + A via de Chuang Tzu - Thomas Merton
 + A sutil arte de ligar o Foda-se - Mark Manson
++ Be Here Now - Ram Dass
 + Become what you are - Alan Watts
 + Cristianismo, As grandes reportagens -
 + Dao de Jing - Laozi
