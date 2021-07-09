@@ -89,4 +89,3 @@ Restaurante chique, se quer impressionar x cremosx aposte aqui. Preços absurdos
 # Parque ecologico
 Parque na pampulha, ok. Não sou tão fã de ir em parques assim mas é até legal pra passar um dia mais de boa.
 ## 40% de aprovação
-

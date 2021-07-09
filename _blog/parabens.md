@@ -9,11 +9,11 @@ Obrigado minha amiga Iza por ter feito sua mágica e conseguido isso, estou em c
 Meu aniversário de 22 anos foi definitivamente memorável.
 
 <div class="bipartido">
-<video  class="parte w50" controls preload="auto">
+<video  class="parte w50 mw100" controls preload="auto">
 	<source src="/images/blog/ryrey_happy_birthday.mp4" type="video/mp4">
 </video>
 
-<video  class="parte w50" controls preload="auto">
+<video  class="parte w50 mw100" controls preload="auto">
 	<source src="/images/blog/vintage_caravan_happy_birthday.mp4" type="video/mp4">
 </video>
 </div>
