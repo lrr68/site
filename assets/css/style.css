@@ -123,7 +123,7 @@ h2{
 	left: 2%;
 }
 .back-button{
-	width: 30%;
+	width: 15%;
 	position: absolute;
 	top: 15pt;
 	left: 15pt;
@@ -231,11 +231,6 @@ h2{
 }
 
 /*WINDOW*/
-#music-window{
-	left: 50%;
-	top: 40%;
-}
-
 .window{
 	width: 480px;
 	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
