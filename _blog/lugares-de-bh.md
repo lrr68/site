@@ -32,8 +32,12 @@ Tem uma escola de língua japonesa e feiras de comida japonesa (Tradicional, ou 
 PS: não é aberta para não associados normalmente, só em dias de feira.
 ## 100% de aprovação
 
+# Parque Guanabara
+Um clássico de BH, visual retrô e muito nostalgico. Tem brinquedos genuinamente divertidos, super vale a pena ir visitar. Tem uma mega roda gigante que da pra ver a lagoa da pampulha toda, sem falar que é absolutamente incrível para encontros românticos (eu imagino né, nunca tive essa oportunidade). O parque só não aparece mais alto na lista por que é um pouquinho caro, mas com 50 reais (na data de escrita desse post) já dá pra ir na maioria dos brinquedos. Quem vem em BH não pode sair sem conhecer o parque Guanabara, é um ícone na história da cidade.
+## 100% de aprovação
+
 # Dona Tomoko
-Bar izakaya incrível. Quem gosta de comida japonesa precisa ir lá. Sem desculpas de "a, mas eu não gosto de sushi". Lá não tem peixe, vem justamente pra quebrar a ideia de que comida japonesa é sushi. Simplesmente fantástico. Perfeito pra rolês de pequenos grupos (4,5 pessoas) de noite. Cardápio dinâmico e com coisas que não encontrei em outros lugares(exceto nas feirinhas da AMCNB). Preços justos, é pago por porção, então se for com mais pessoas é perfeito pra dividir e fica barato pra todo mundo.
+Infelizmente fechou, vítima da pandemia, mas ainda continua na lista. Bar izakaya incrível. Quem gosta de comida japonesa precisa ir lá. Sem desculpas de "a, mas eu não gosto de sushi". Lá não tem peixe, vem justamente pra quebrar a ideia de que comida japonesa é sushi. Simplesmente fantástico. Perfeito pra rolês de pequenos grupos (4,5 pessoas) de noite. Cardápio dinâmico e com coisas que não encontrei em outros lugares(exceto nas feirinhas da AMCNB). Preços justos, é pago por porção, então se for com mais pessoas é perfeito pra dividir e fica barato pra todo mundo.
 ## 100% de aprovação (pra quem curte japonês)
 
 # Samba fresh
