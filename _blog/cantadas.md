@@ -11,3 +11,5 @@ Esta é uma lista de cantadas feita por mim e pela minha grande amiga Iza. Para 
 + pra que aprender outras línguas se a unica que me interessa é a sua
 + as coisas não estão fáceis mas eu to pra você
 + Nesse frio se eu te chamar de cobertor você passa a noite em cima de mim?
++ Mesmo nesse frio todo eu ainda me derreto por você
++ A única distância entre eu e vc deveria ser 17cm, 0cm, 17cm, 0cm, 17cm, 0cm... (substitua 17cm pelo tamanho do pau do sujeito em questão)
