@@ -13,26 +13,31 @@ colocar horário de funcionamento
 fotos
 diurno ou noturno?
 vegano?-->
+
 # Dogueria Veneer:
 Mas Lucca, a dogueria não fechou? Fechou pra você, pessoa de pouca fé.
 Meu favorito, na avenida guarapari. Simplesmente o melhor cachorro quente de BH.
 Opções vegetarianas não faltam. Nenhuma opção vegana até onde sei. Perfeito para todo tipo de ocasião, quer um encontro romântico com x cremosx? Dogueria Veneer. Quer comer sozinhx a melhor coisa que existe em BH(da pra expandir pro mundo todo)? Dogueria Veneer. Quer levar os amigos pra um lugar toptop? Dogueria Veneer. Só vai, não existe decepção.
 ## 100% de aprovação.
 
-# Mr. Guará Burguer:
+# <a href="https://www.instagram.com/mr.guaraburgers/" target="_blank">Mr. Guará Burguer</a>:
 Mesmos donos da Dogueria, mesmo lugar. Smash burguers bem bons e ainda servem o legado da Dogueria, 3 cachorros quentes insanos. Não tem nem muito o que dizer, mesma descrição da Dogueria, incrível.
+## 100% de aprovação.
+
+# <a href="https://www.passeliboulangerie.com.br/" target="_blank">Passeli Boulangerie</a>:
+Uma padaria artesanal incrível, lugar muito charmoso, na fleming, no fundo do sushi house, super tranquilo, com grama e árvores. Simplesmente encantador, uma vibe muito tranquila que favorece rolês românticos. Comida fenomenal, muito boa mesmo e bem mais barato do que eu esperava. Fenomenal, vale visitar.
 ## 100% de aprovação.
 
 # Parque lagoa do nado:
 Melhor pista de skate de BH. O parque também é bem legal, mas está na lista pela pista de skate. Pena que fecha as 18:00. Massa pra fazer pique-nique, etc. Tem altos eventos direto também.
 ## 100% de aprovação
 
-# Associação Mineira de Cultura Nipo-Brasileira (AMCNB):
+# <a href="https://amcnb.com.br/" target="_blank">Associação Mineira de Cultura Nipo-Brasileira (AMCNB)</a>:
 Tem uma escola de língua japonesa e feiras de comida japonesa (Tradicional, ou seja, tem muuuuita coisa além de sushi) que acontecem mês sim, mês não. O que mais eu poderia querer?
 PS: não é aberta para não associados normalmente, só em dias de feira.
 ## 100% de aprovação
 
-# Parque Guanabara
+# <a href="https://www.parqueguanabara.com/" target="_blank">Parque Guanabara</a>:
 Um clássico de BH, visual retrô e muito nostalgico. Tem brinquedos genuinamente divertidos, super vale a pena ir visitar. Tem uma mega roda gigante que da pra ver a lagoa da pampulha toda, sem falar que é absolutamente incrível para encontros românticos (eu imagino né, nunca tive essa oportunidade). O parque só não aparece mais alto na lista por que é um pouquinho caro, mas com 50 reais (na data de escrita desse post) já dá pra ir na maioria dos brinquedos. Quem vem em BH não pode sair sem conhecer o parque Guanabara, é um ícone na história da cidade.
 ## 100% de aprovação
 
@@ -61,7 +66,7 @@ Tanto o parque como a região da cidade são impressionantes. Dá uma bela camin
 Uma praça muito legal com muitos museus em volta. Destaque para o Espaço do conhecimento da UFMG, tem um planetário projetado com sessões regulares. A praça é perfeita para uma saída tranquila, para conversar e fazer um rolê cultural.
 ## 80% de aprovação
 
-# Pão de queijaria
+# <a href="https://www.instagram.com/apaodequeijaria/" target="_blank">Pão de queijaria</a>:
 Faz juz ao pão de queijo mineiro, queijos artesanais na produção e ketchup de goiabada. Mineiros enlouqueçam. Tem pão de queijo recheado também. Bom para rolês casuais, comer um trem e seguir pra outro lugar.
 ## 80% de aprovação
 
