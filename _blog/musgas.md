@@ -16,10 +16,14 @@ Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. A l
 + Twenty one pilots
 + Linkin Park (menos os acapella, hybrid theory 20 anos por que né, 80 músicas é embaçado, e one more light live)
 + Trúbot
++ Wucan
++ Church of The Cosmic Skull
++ Paramore
 
 ## Stoner rock
 Especialmente:
 + The Vintage Caravan
++ Church of The Cosmic Skull
 + 1000mods
 
 [Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
@@ -30,6 +34,7 @@ Especialmente:
 + Pixies
 + Regina Spektor
 + Sublime
++ Wucan
 
 # Melhores albuns em minha humilde opinião (sem ordem específica):
 + Pinkerton - Weezer
