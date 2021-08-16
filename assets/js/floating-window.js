@@ -366,7 +366,7 @@ Update log:
 
 	function resizeBody()
 	{
-		if (window.location.href.includes('blog'))
+		if (window.location.href.includes('blog') || window.location.href.includes('skate'))
 			document.body.style.height = document.getElementsByClassName('window')[0].offsetHeight + 100 + 'px';
 	}
 
