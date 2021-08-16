@@ -53,7 +53,6 @@ h2{
 	margin: 3% auto;
 	width: 60%;
 	height: 90%;
-	padding: 15px;
 	border: double;
 	border-width: 10px;
 
@@ -91,6 +90,9 @@ h2{
 }
 .tripartido div{
 	width: 33% !important;
+}
+.p15{
+	padding: 15px;
 }
 .w100{
 	width: 100%;
@@ -173,9 +175,8 @@ h2{
 	padding-right: 5pt;
 }
 .cabecalho{
-	width: 103%;
+	width: 100%;
 	display: inline-flex;
-	margin: -15px;
 }
 .tiny-margin-top{
 	margin-top: 2pt;
