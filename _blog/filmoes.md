@@ -19,3 +19,5 @@ A lista não está em nenhuma ordem específica.
 + Kung fusão
 + The girl with the dragon tattoo
 + Whiplash
+
+Atualizado em 2021-08-18

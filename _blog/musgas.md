@@ -19,6 +19,7 @@ Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. A l
 + Wucan
 + Church of The Cosmic Skull
 + Paramore
++ Pilgrim
 
 ### Stoner rock
 Especialmente:
@@ -46,3 +47,5 @@ Especialmente:
 + Sublime - Sublime
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
+
+Atualizado em 2021-08-18

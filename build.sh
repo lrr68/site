@@ -19,9 +19,21 @@ uploadarquivos()
 	done
 }
 
+updatedates()
+{
+
+	cur_date="$(date +%Y-%m-%d)"
+
+	for file in $(ls _blog)
+	do
+		sed -i "s/^Atualizado em .*$/Atualizado em $cur_date/g" "_blog/$file"
+	done
+}
+
 #. compress_img.sh
 #rm images/*.png
 uploadarquivos
+updatedates
 
 bundle update &&
 JEKYLL_ENV=production &&
