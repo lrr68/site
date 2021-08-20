@@ -15,4 +15,4 @@ Esta é uma lista de cantadas feita por mim e pela minha grande amiga Iza. Para 
 + A única distância entre eu e vc deveria ser 17cm, 0cm, 17cm, 0cm, 17cm, 0cm... (substitua 17cm pelo tamanho do pau do sujeito em questão)
 + Você sabe falar miau em grego? Por que é o deus grego mais gato que já vi.
 
-Atualizado em 2021-08-18
+Atualizado em 2021-08-20

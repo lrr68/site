@@ -53,4 +53,4 @@ Uma lista dos livros que tenho.
 + Onde Está Wally? O Livro Maluco - Martin Handford
 + Onde Está Wally? O incrível livro de atividades 2,3 e 4 - Martin Handford
 
-Atualizado em 2021-08-18
+Atualizado em 2021-08-20

@@ -20,6 +20,12 @@ Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. A l
 + Church of The Cosmic Skull
 + Paramore
 + Pilgrim
++ Marina Sena
++ Rosa Neon
+
+Cansei dessa brincadeira por que comecei a tentar ouvir a discografia de artistas com um milhão de albuns, tipo Deep Purple, ai cansei. Mas achei legal então no futuro vou retomar. Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
++ Weezer
++ Bring me The Horizon
 
 ### Stoner rock
 Especialmente:
@@ -48,4 +54,4 @@ Especialmente:
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
 
-Atualizado em 2021-08-18
+Atualizado em 2021-08-20
