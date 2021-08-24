@@ -11,7 +11,8 @@ Uma listinha de artistas e albuns que estou escutando no momento, artistas que g
 
 ## Atualmente ouvindo:
 
-Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. A listinha até agora, na ordem que ouvi:
+Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. To fazendo isso com artistas que tem poucos albuns por que fica cansativo ouvir bandas tipo Deep Purple com um milhão de albuns.
+A listinha até agora, na ordem que ouvi:
 + The Vintage Caravan, mas tava implícito já né.
 + Twenty one pilots
 + Linkin Park (menos os acapella, hybrid theory 20 anos por que né, 80 músicas é embaçado, e one more light live)
@@ -22,10 +23,13 @@ Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. A l
 + Pilgrim
 + Marina Sena
 + Rosa Neon
++ Letrux
 
-Cansei dessa brincadeira por que comecei a tentar ouvir a discografia de artistas com um milhão de albuns, tipo Deep Purple, ai cansei. Mas achei legal então no futuro vou retomar. Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
+Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
 + Bring me The Horizon
+
+## Generos que tenho ouvido:
 
 ### Stoner rock
 Especialmente:
@@ -34,6 +38,15 @@ Especialmente:
 + 1000mods
 
 [Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
+
+### Nova MPB (??? não sei se é isso mesmo, mas é vibes lagum, rosa neon, etc)
+Especialmente:
++ Rosa Neon
++ Marina Sena
++ Marcelo Tofani
++ Jovem Dionísio
+
+[Minha playlist de nova MPB no spotify](https://open.spotify.com/playlist/0ZrL8Eez0fqpNNeflhCksJ?si=276298545b34444c)
 
 ## Artistas que eu amo mas sempre esqueço que existem por que viciei em um gênero (normalmente metal, punk e afins):
 + Caravan Palace
@@ -54,4 +67,4 @@ Especialmente:
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
 
-Atualizado em 2021-08-20
+Atualizado em 2021-08-24

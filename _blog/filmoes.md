@@ -20,4 +20,4 @@ A lista não está em nenhuma ordem específica.
 + The girl with the dragon tattoo
 + Whiplash
 
-Atualizado em 2021-08-20
+Atualizado em 2021-08-24

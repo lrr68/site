@@ -92,4 +92,4 @@ Pra se informar sobre Kundalini Yoga visite:
 + <a href="https://www.3ho.org">3HO foundation</a>
 + <a href="https://www.abaky.org.br">Abaky</a>
 
-Atualizado em 2021-08-20
+Atualizado em 2021-08-24

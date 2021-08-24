@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "UPLOADING"
-rsync -avz _site/ root@luccaaugusto.xyz:/var/www/luccaaugusto.xyz/html/
+rsync -avz _site/ $USER@luccaaugusto.xyz:/var/www/luccaaugusto.xyz/html/
 
 echo "UPDATE GIT"
 git add .
