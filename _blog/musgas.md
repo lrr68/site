@@ -39,12 +39,13 @@ Especialmente:
 
 [Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
 
-### Nova MPB (??? não sei se é isso mesmo, mas é vibes lagum, rosa neon, etc)
+### Nova MPB (??? não sei se é isso mesmo, mas é vibes Jovem Dionísio, rosa neon, etc)
 Especialmente:
 + Rosa Neon
 + Marina Sena
 + Marcelo Tofani
 + Jovem Dionísio
++ Selvagens à Procura de Lei
 
 [Minha playlist de nova MPB no spotify](https://open.spotify.com/playlist/0ZrL8Eez0fqpNNeflhCksJ?si=276298545b34444c)
 
@@ -67,4 +68,4 @@ Especialmente:
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
 
-Atualizado em 2021-08-20
+Atualizado em 2021-08-24

@@ -26,6 +26,7 @@ updatedates()
 
 	for file in $(ls _blog)
 	do
+		[ -n "$(git diff "_blog/$file")" ] &&
 		sed -i "s/^Atualizado em .*$/Atualizado em $cur_date/g" "_blog/$file"
 	done
 }
