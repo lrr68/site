@@ -24,6 +24,7 @@ A listinha até agora, na ordem que ouvi:
 + Marina Sena
 + Rosa Neon
 + Letrux
++ Plus (Banda argentina dos anos 60-70. Difícil de achar só pelo nome. Tem um album deles na lista de albuns ai em baixo)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -59,13 +60,16 @@ Especialmente:
 ## Melhores albuns em minha humilde opinião (sem ordem específica):
 + Pinkerton - Weezer
 + Monuments - The Vintage Caravan
-+ Gateways - The Vintage Caravan
 + Post Traumatic - Mike Shinoda
 + Hybrid Theory - Linkin Park
 + Chronologic - Caravan Palace
+
+## Albuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus albuns preferidos.
++ Gateways - The Vintage Caravan
 + Danger Days The True Lives of The Fabulous Killjoys - My Chemical Romance
 + Sublime - Sublime
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
++ No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
 Atualizado em 2021-08-24
