@@ -19,5 +19,6 @@ A lista não está em nenhuma ordem específica.
 + Kung fusão
 + The girl with the dragon tattoo
 + Whiplash
++ Bazil (1984, do Terry Gilliam)
 
-Atualizado em 2021-08-24
+Atualizado em 2021-08-20
