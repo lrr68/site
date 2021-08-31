@@ -25,10 +25,12 @@ A listinha até agora, na ordem que ouvi:
 + Rosa Neon
 + Letrux
 + Plus (Banda argentina dos anos 60-70. Difícil de achar só pelo nome. Tem um album deles na lista de albuns ai em baixo)
++ Warish
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
 + Bring me The Horizon
++ RISE AGAINST, minha antiga banda favorita
 
 ## Generos que tenho ouvido:
 
