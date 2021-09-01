@@ -34,7 +34,7 @@ updatedates()
 #. compress_img.sh
 #rm images/*.png
 uploadarquivos
-#updatedates
+updatedates
 
 bundle update &&
 JEKYLL_ENV=production &&

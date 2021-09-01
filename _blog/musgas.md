@@ -26,6 +26,7 @@ A listinha até agora, na ordem que ouvi:
 + Letrux
 + Plus (Banda argentina dos anos 60-70. Difícil de achar só pelo nome. Tem um album deles na lista de albuns ai em baixo)
 + Warish
++ The Kooks (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -74,4 +75,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2021-08-24
+Atualizado em 2021-09-01
