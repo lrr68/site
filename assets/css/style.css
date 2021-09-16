@@ -9,6 +9,9 @@ h2{
 	border-bottom: 2px solid;
 	color: black;
 }
+.short-description{
+	display: none;
+}
 .c55-studio-embed{
 	background-color: #9dded7;
 	margin: auto;
