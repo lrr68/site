@@ -26,7 +26,8 @@ A listinha até agora, na ordem que ouvi:
 + Letrux
 + Plus (Banda argentina dos anos 60-70. Difícil de achar só pelo nome. Tem um album deles na lista de albuns ai em baixo)
 + Warish
-+ The Kooks (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor)
++ The Kooks (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor. Inclusive eu queria ouvir The Strokes e confundi com The Kooks, decepção em dobro)
++ Turnstile
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
