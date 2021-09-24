@@ -13,4 +13,7 @@ Também já tem um tempinho que sinto que estagnei no vim, preciso melhorar meu 
 #### Atualização 2021-09-22:
 Okay, o sistema de modos no vim começou a me incomodar. Estava planejando aprender a usar Emacs no tempo livre mas decidi passar a trabalhar no emacs mesmo, já gostei muito da ideia de como ele funciona e parece que meu dedinho vai sobreviver.
 
-Atualizado em 2021-09-22
+#### Atualização 2021-09-24:
+To tentando usar o emacs pro trabalho mas ainda é frustrante demais não ter a proficiência que tenh com o Vim. Sigo vendo tutoriais e tal. Não tem nem syntax highlighting ainda, to perdidinho.
+
+Atualizado em 2021-09-24
