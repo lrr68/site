@@ -14,6 +14,12 @@ Também já tem um tempinho que sinto que estagnei no vim, preciso melhorar meu 
 Okay, o sistema de modos no vim começou a me incomodar. Estava planejando aprender a usar Emacs no tempo livre mas decidi passar a trabalhar no emacs mesmo, já gostei muito da ideia de como ele funciona e parece que meu dedinho vai sobreviver.
 
 #### Atualização 2021-09-24:
-To tentando usar o emacs pro trabalho mas ainda é frustrante demais não ter a proficiência que tenh com o Vim. Sigo vendo tutoriais e tal. Não tem nem syntax highlighting ainda, to perdidinho.
+To tentando usar o emacs pro trabalho mas ainda é frustrante demais não ter a proficiência que tenh com o Vim. Sigo vendotutoriais e tal. Não tem nem syntax highlighting ainda, to perdidinho.
 
-Atualizado em 2021-09-24
+#### Atualização 2021-09-25:
+To lendo o tutorial do emacs, tipo o vimtutor do vim, e to gostando bastante. Meu dedinho ainda ta inteiro e to gostando da ideia de um editor sem modos. Ainda to sofrendo com algumas coisas mas paciência né. Uma coisa que me incomoda um pouco é que o Emacs é meio bloated, mas to gostando das possibilidades que já vem por padrão nele.
+
+#### Atualização 2021-09-26:
+To trabalhando no meu projetinho de graficos no terminal ([tarts](https://github.com/lrr68/tarts)) e to gostando muito ta flexibilidade de mudar de buffers e windows do emacs, mas to sentindo falta de algumas coisas do Vim que não sei fazer no Emacs. E meu dedinho começa a sofrer grandão depois de uns 15 minutos usando o Emacs. To considerando voltar pro vim e passar a usar o Tmux pra ter essa funcionalidade de windows e buffers. Na verdade acabei de lembrar do Evil Mode. Vou testar ele antes de pensar em voltar pro Vim+Tmux.
+
+Atualizado em 2021-09-26
