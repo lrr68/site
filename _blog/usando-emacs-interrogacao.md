@@ -22,4 +22,7 @@ To lendo o tutorial do emacs, tipo o vimtutor do vim, e to gostando bastante. Me
 #### Atualização 2021-09-26:
 To trabalhando no meu projetinho de graficos no terminal ([tarts](https://github.com/lrr68/tarts)) e to gostando muito ta flexibilidade de mudar de buffers e windows do emacs, mas to sentindo falta de algumas coisas do Vim que não sei fazer no Emacs. E meu dedinho começa a sofrer grandão depois de uns 15 minutos usando o Emacs. To considerando voltar pro vim e passar a usar o Tmux pra ter essa funcionalidade de windows e buffers. Na verdade acabei de lembrar do Evil Mode. Vou testar ele antes de pensar em voltar pro Vim+Tmux.
 
-Atualizado em 2021-09-26
+#### Atualização 2021-09-27:
+Instalei o Evil Mode e ta tudo bem melhor, consigo gastar o dedinho so em comandos do emacs mesmo, e pra editar texto de fato uso comandos normais do Vim, só que agora volto a esbarrar no problema de modos do vim. Vamos ver qual a solução que vai sair disso.
+
+Atualizado em 2021-09-27

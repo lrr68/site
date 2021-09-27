@@ -149,6 +149,7 @@ h2{
 }
 .icone{
 	width: 24px;
+	vertical-align: middle;
 }
 #random{
 	width: 485px;
