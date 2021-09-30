@@ -64,4 +64,9 @@ no código pra você corrigir, AMEI isso. Mas carai, Emacs Pinky não é
 zoeira não, já to sentindo, tive que remapear o Caps pro Ctrl pra poder
 usar, agora ta LUXXXO.
 
-Atualizado em 2021-09-28
+#### Atualização 2021-09-30:
+To bem dividido quanto ao Emacs agora. Ainda não estou 100% familiarizado
+com ele então não estou tão eficiente ainda. Não gosto da ideia de ele engolir seu sistema inteiro e se tornar basicamente o SO, mas ao mesmo tempo é muito conveniente muitas das coisas que ele tem. Acho que vou testar o Nvim e instalar alguns plugins pra ver como fico. Isso e colocar bindings pra mexer o cursor no insert mode são as coisas que mais vão mudar minha vida.
+
+
+Atualizado em 2021-09-30
