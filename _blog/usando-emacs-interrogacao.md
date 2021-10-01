@@ -68,5 +68,7 @@ usar, agora ta LUXXXO.
 To bem dividido quanto ao Emacs agora. Ainda não estou 100% familiarizado
 com ele então não estou tão eficiente ainda. Não gosto da ideia de ele engolir seu sistema inteiro e se tornar basicamente o SO, mas ao mesmo tempo é muito conveniente muitas das coisas que ele tem. Acho que vou testar o Nvim e instalar alguns plugins pra ver como fico. Isso e colocar bindings pra mexer o cursor no insert mode são as coisas que mais vão mudar minha vida.
 
+#### Atualização 2021-10-01:
+Sigo muito dividido, to pulando entre o Vim e o Emacs. Gosto muito do conceito do Vim e da praticidade de edição, acho que da pra ser bem mais rápido no Vim, pelo menos na minha opinião, mas gosto muito da extensibilidade do Emacs, mas é bagunça total, o que me desanima um pouco. A saga continua...
 
 Atualizado em 2021-09-30
