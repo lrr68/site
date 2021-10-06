@@ -72,12 +72,12 @@ com ele então não estou tão eficiente ainda. Não gosto da ideia de ele engol
 Sigo muito dividido, to pulando entre o Vim e o Emacs. Gosto muito do conceito do Vim e da praticidade de edição, acho que da pra ser bem mais rápido no Vim, pelo menos na minha opinião, mas gosto muito da extensibilidade do Emacs, mas é bagunça total, o que me desanima um pouco. A saga continua...
 
 #### Atualização 2021-10-04:
-� adeus Emacs provavelmente, to migrando pro Neovim. A ideia da arquitetura do Emacs e como ele vira seu sistema operacional n�o me agradou, ent�o eu pensei em algumas mudan�as que posso fazer no vim pra ter uma esperi�ncia melhor. Ent�o to migrando pro Neovim e vou configurar alguns plugins pra ter as coisas que gostei no Emacs dentro do vim e ter uma experi�ncia melhor. O Neovim/Vim � mais simples, mais eficiente e � um componente, ent�o fica f�cil de integrar em outros fluxos, o Emacs se torna o fluxo n�, ent�o n�o tava rolando.
+É adeus Emacs provavelmente, to migrando pro Neovim. A ideia da arquitetura do Emacs e como ele vira seu sistema operacional não me agradou, então eu pensei em algumas mudanças que posso fazer no vim pra ter uma esperi�ncia melhor. Entã�o to migrando pro Neovim e vou configurar alguns plugins pra ter as coisas que gostei no Emacs dentro do vim e ter uma experi�ncia melhor. O Neovim/Vim é mais simples, mais eficiente e é um componente, então fica f�cil de integrar em outros fluxos, o Emacs se torna o fluxo né, então não tava rolando.
 
 #### Atualização 2021-10-05:
 Adeus Emacs, Neovim é meu melhor amigo agora. Acontece que tudo que eu gostei no Emacs tem no Vim e eu nem sabia, como assim? tem um terminal embutido, onde posso navegar com os comandos do vim, lindo. Tem o Fugitive, plugin de git tipo o magit, mas ainda não sei se vou usar mesmo, a linha de comando e meus scripts ainda tem coisas mais legais que esses plugins.
 
 #### Atualização 2021-10-06:
-FIXME To realmente gostando do vim, descobri muitas funcionalidades novas. Esbarrei em 2 problemas, copiar e colar no Neovim ta complexo ainda e nao consigo colocar caracteres com acento ainda, fora isso ta incr�vel.
+To realmente gostando do vim, descobri muitas funcionalidades novas. Esbarrei em 2 problemas, copiar e colar no Neovim ta complexo ainda e nao consigo colocar caracteres com acento ainda, fora isso ta incr�vel.
 
-Atualizado em 2021-10-05
+Atualizado em 2021-10-06
