@@ -78,6 +78,6 @@ Sigo muito dividido, to pulando entre o Vim e o Emacs. Gosto muito do conceito d
 Adeus Emacs, Neovim é meu melhor amigo agora. Acontece que tudo que eu gostei no Emacs tem no Vim e eu nem sabia, como assim? tem um terminal embutido, onde posso navegar com os comandos do vim, lindo. Tem o Fugitive, plugin de git tipo o magit, mas ainda não sei se vou usar mesmo, a linha de comando e meus scripts ainda tem coisas mais legais que esses plugins.
 
 #### Atualização 2021-10-06:
-To realmente gostando do vim, descobri muitas funcionalidades novas. Esbarrei em 2 problemas, copiar e colar no Neovim ta complexo ainda e nao consigo colocar caracteres com acento ainda, fora isso ta incr�vel.
+To realmente gostando do vim, descobri muitas funcionalidades novas. Esbarrei em 2 problemas, copiar e colar no Neovim ta complexo ainda e nao consigo colocar caracteres com acento ainda, fora isso ta incr�vel. Atualizando 5 minutos depois que itnha escrito isso, agora copiar e colar funciona (???), coloquei os parametros ```set clipboard=unnamed,unnamedplus``` e rolou.
 
 Atualizado em 2021-10-06
