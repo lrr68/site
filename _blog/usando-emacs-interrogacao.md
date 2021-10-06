@@ -74,7 +74,10 @@ Sigo muito dividido, to pulando entre o Vim e o Emacs. Gosto muito do conceito d
 #### Atualização 2021-10-04:
 � adeus Emacs provavelmente, to migrando pro Neovim. A ideia da arquitetura do Emacs e como ele vira seu sistema operacional n�o me agradou, ent�o eu pensei em algumas mudan�as que posso fazer no vim pra ter uma esperi�ncia melhor. Ent�o to migrando pro Neovim e vou configurar alguns plugins pra ter as coisas que gostei no Emacs dentro do vim e ter uma experi�ncia melhor. O Neovim/Vim � mais simples, mais eficiente e � um componente, ent�o fica f�cil de integrar em outros fluxos, o Emacs se torna o fluxo n�, ent�o n�o tava rolando.
 
-#### Atualiza��o 2021-10-05:
-Adeus Emacs, Neovim � meu melhor amigo agora. Acontece que tudo que eu gostei no Emacs tem no Vim e eu nem sabia, como assim? tem um terminal embutido, onde posso navegar com os comandos do vim, lindo. Tem o Fugitive, plugin de git tipo o magit, mas ainda n�o sei se vou usar mesmo, a linha de comando e meus scripts ainda tem coisas mais legais que esses plugins.
+#### Atualização 2021-10-05:
+Adeus Emacs, Neovim é meu melhor amigo agora. Acontece que tudo que eu gostei no Emacs tem no Vim e eu nem sabia, como assim? tem um terminal embutido, onde posso navegar com os comandos do vim, lindo. Tem o Fugitive, plugin de git tipo o magit, mas ainda não sei se vou usar mesmo, a linha de comando e meus scripts ainda tem coisas mais legais que esses plugins.
+
+#### Atualização 2021-10-06:
+FIXME To realmente gostando do vim, descobri muitas funcionalidades novas. Esbarrei em 2 problemas, copiar e colar no Neovim ta complexo ainda e nao consigo colocar caracteres com acento ainda, fora isso ta incr�vel.
 
 Atualizado em 2021-10-05
