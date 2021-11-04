@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Músicas favoritas
+title: Músicas (listas e links)
 categories: music
 ---
 
@@ -10,25 +10,27 @@ Uma listinha de artistas e albuns que estou escutando no momento, artistas que g
 + [luccaugusto](https://open.spotify.com/user/luccaugusto)
 
 ## Atualmente ouvindo:
+Um monte de artistas diferentes, mas na vibe stoner rock/psychedelic rock.
 
+## Artistas que ouvi toda a discografia
 Tenho explorado mais a fundo alguns artistas, ouvindo todos os albuns deles. To fazendo isso com artistas que tem poucos albuns por que fica cansativo ouvir bandas tipo Deep Purple com um milhão de albuns.
-A listinha até agora, na ordem que ouvi:
-+ The Vintage Caravan, mas tava implícito já né.
-+ Twenty one pilots
-+ Linkin Park (menos os acapella, hybrid theory 20 anos por que né, 80 músicas é embaçado, e one more light live)
-+ Trúbot
-+ Wucan
-+ Church of The Cosmic Skull
-+ Paramore
-+ Pilgrim
-+ Marina Sena
-+ Rosa Neon
-+ Letrux
-+ Plus (Banda argentina dos anos 60-70. Difícil de achar só pelo nome. Tem um album deles na lista de albuns ai em baixo)
-+ Warish
-+ The Kooks (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor. Inclusive eu queria ouvir The Strokes e confundi com The Kooks, decepção em dobro)
-+ Turnstile
-+ King Gizzard and the Lizard Wizard (essa demorou, mas gostei demais)
+A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por que não lembro exatamente):
++ The Vintage Caravan, mas tava implícito já né. (2021/07/26)
++ Twenty one pilots (2021/07/26)
++ Linkin Park (2021/07/26) (menos os acapella, hybrid theory 20 anos por que né, 80 músicas é embaçado, e one more light live)
++ Trúbot (2021/07/26)
++ Wucan (2021/08/11)
++ Church of The Cosmic Skull (2021/08/11)
++ Paramore (2021/08/11)
++ Pilgrim (2021/08/11)
++ Marina Sena (2021/08/20)
++ Rosa Neon (2021/08/20)
++ Letrux (2021/08/24)
++ Plus (2021/08/24) (Banda argentina dos anos 60-70. Difícil de achar só pelo nome. Tem um album deles na lista de albuns ai em baixo)
++ Warish (2021/08/31)
++ The Kooks (2021/09/01) (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor. Inclusive eu queria ouvir The Strokes e confundi com The Kooks, decepção em dobro)
++ Turnstile (2021/09/16)
++ King Gizzard and the Lizard Wizard (2021/11/04) (essa demorou, mas gostei demais)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
