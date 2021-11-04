@@ -28,6 +28,7 @@ A listinha até agora, na ordem que ouvi:
 + Warish
 + The Kooks (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor. Inclusive eu queria ouvir The Strokes e confundi com The Kooks, decepção em dobro)
 + Turnstile
++ King Gizzard and the Lizard Wizard (essa demorou, mas gostei demais)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -76,4 +77,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2021-09-01
+Atualizado em 2021-11-04
