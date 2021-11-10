@@ -31,13 +31,14 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + The Kooks (2021/09/01) (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor. Inclusive eu queria ouvir The Strokes e confundi com The Kooks, decepção em dobro)
 + Turnstile (2021/09/16)
 + King Gizzard and the Lizard Wizard (2021/11/04) (essa demorou, mas gostei demais)
++ Imagine Dragons (2021/11/10) (muito música de cagar pelado pra mim, gostei beeem mais dos últimos 2 álbuns do que gostei dos primeiros álbuns, tem algumas musicas legais mas não é muito meu estilo. Os EPs me agradaram mais que os álbuns no geral)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
 + Bring me The Horizon
 + RISE AGAINST, minha antiga banda favorita
 
-## Generos que tenho ouvido:
+## Gêneros que tenho ouvido:
 
 ### Stoner rock
 Especialmente:
@@ -64,14 +65,14 @@ Especialmente:
 + Regina Spektor
 + Sublime
 
-## Melhores albuns em minha humilde opinião (sem ordem específica):
+## Melhores álbuns em minha humilde opinião (sem ordem específica):
 + Pinkerton - Weezer
 + Monuments - The Vintage Caravan
 + Post Traumatic - Mike Shinoda
 + Hybrid Theory - Linkin Park
 + Chronologic - Caravan Palace
 
-## Albuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus albuns preferidos.
+## Álbuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus álbuns preferidos.
 + Gateways - The Vintage Caravan
 + Danger Days The True Lives of The Fabulous Killjoys - My Chemical Romance
 + Sublime - Sublime
@@ -79,4 +80,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2021-11-04
+Atualizado em 2021-11-10
