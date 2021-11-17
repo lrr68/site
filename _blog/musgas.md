@@ -71,6 +71,7 @@ Especialmente:
 + Post Traumatic - Mike Shinoda
 + Hybrid Theory - Linkin Park
 + Chronologic - Caravan Palace
++ Holy Land - Angra
 
 ## Álbuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus álbuns preferidos.
 + Gateways - The Vintage Caravan
@@ -80,4 +81,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2021-11-10
+Atualizado em 2021-11-16
