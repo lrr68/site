@@ -32,6 +32,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Turnstile (2021/09/16)
 + King Gizzard and the Lizard Wizard (2021/11/04) (essa demorou, mas gostei demais)
 + Imagine Dragons (2021/11/10) (muito música de cagar pelado pra mim, gostei beeem mais dos últimos 2 álbuns do que gostei dos primeiros álbuns, tem algumas musicas legais mas não é muito meu estilo. Os EPs me agradaram mais que os álbuns no geral)
++ Maroon 5 (2021/11/20) (curti muito Maroon 5, achei que não ia gostar mas achei muito bom. Os últimos 2 ou 3 álbuns não gostei, mas os primeiros eu amei)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -81,4 +82,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2021-11-16
+Atualizado em 2021-11-22
