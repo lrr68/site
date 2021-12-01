@@ -35,6 +35,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Maroon 5 (2021/11/20) (curti muito Maroon 5, achei que não ia gostar mas achei muito bom. Os últimos 2 ou 3 álbuns não gostei, mas os primeiros eu amei)
 + Lucy in Blue (2021/11/22) (outra banda da Islândia muito boa, indicação do Stefan Ari num stories, curti demais, tem uma pegada meio jazz com rock e rock psicodélico)
 + Sir Chloe (2021/11/23) (uau, minha amiga Anne me recomendou uma música e apaixonei, me lembra muito a Marceline de Hora de Aventura cantando, incrível)
++ Skating Polly (2021/12/01) (procurando a banda de metal kamelot achei a musica camelot delas, amei amei, vocalista que lembra a Emma Stone + Zoey Deschannel e grita de um jeito muito legal)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -84,4 +85,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2021-11-23
+Atualizado em 2021-12-01
