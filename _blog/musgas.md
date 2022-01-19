@@ -36,6 +36,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Lucy in Blue (2021/11/22) (outra banda da Islândia muito boa, indicação do Stefan Ari num stories, curti demais, tem uma pegada meio jazz com rock e rock psicodélico)
 + Sir Chloe (2021/11/23) (uau, minha amiga Anne me recomendou uma música e apaixonei, me lembra muito a Marceline de Hora de Aventura cantando, incrível)
 + Skating Polly (2021/12/01) (procurando a banda de metal kamelot achei a musica camelot delas, amei amei, vocalista que lembra a Emma Stone + Zoey Deschannel e grita de um jeito muito legal)
++ Mamonas Assassinas (2012/12/22) (incrível, pena que não tem mais álbuns)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
