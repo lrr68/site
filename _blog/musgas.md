@@ -18,7 +18,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + The Vintage Caravan, mas tava implícito já né. (2021/07/26)
 + Twenty one pilots (2021/07/26)
 + Linkin Park (2021/07/26) (menos os acapella, hybrid theory 20 anos por que né, 80 músicas é embaçado, e one more light live)
-+ Trúbot (2021/07/26)
++ Trúbrot (2021/07/26)
 + Wucan (2021/08/11)
 + Church of The Cosmic Skull (2021/08/11)
 + Paramore (2021/08/11)
@@ -87,4 +87,4 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 
-Atualizado em 2022-02-03
+Atualizado em 2022-02-08
