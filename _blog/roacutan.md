@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minha experiência com Roacutan
+title: Roacutan, A experiência
 ---
 
 TLDR: No fim de 2021 tomei Roacutan por 4 meses e foi horrível.
@@ -48,8 +48,8 @@ Nada que eu aprendi pra controlar essas coisas consegui colocar em pratica por q
 
 Depois que parei de tomar todos esses sintomas de má saúde mental se tornaram manejáveis, não melhoraram em nada basicamente, mas eu comecei a conseguir aplicar o que eu aprendi pra controlar isso e começou a funcionar. Por isso eu acho muito que, apesar de eu já ter essa tendência, a influência fisiológica do Roacutan foi esmagadora (e ta na bula também né, depressão e ate suicídio :P).
 
-Enfim, essa foi minha experiencia com Roacutan, foi bem bosta pra ser sincero, não sei ainda se valeu a pena, por enquanto não tive acne como tinha antes mas acho que o Roacutan não garante que não vou voltar a ter. Pra controlar isso o melhor é investir numa boa alimentação que não estimule inflamações no corpo. Não recomendaria Roacutan pra ninguém a não ser que fosse um caso muito extremo de acne, vale mais a pena melhorar a alimentação e investir na saúde do corpo no geral.
+Enfim, essa foi minha experiência com Roacutan, foi bem bosta pra ser sincero, não sei ainda se valeu a pena, por enquanto não tive acne como tinha antes mas acho que o Roacutan não garante que não vou voltar a ter. Pra controlar isso o melhor é investir numa boa alimentação que não estimule inflamações no corpo. Não recomendaria Roacutan pra ninguém a não ser que fosse um caso muito extremo de acne, vale mais a pena melhorar a alimentação e investir na saúde do corpo no geral.
 
 Sinta-se a vontade pra me mandar perguntas ou comentários por qualquer lugar, meus contatos estão listados na pagina principal desse site.
 
-Atualizado em 2022-03-29
+Atualizado em 2022-03-30
