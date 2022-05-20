@@ -1,0 +1,23 @@
+---
+layout: gallery
+title: Coisas que saíram do meu cérebro
+---
+<div class="main">
+    <div id="grid" class="mauto central cool-red neon galeria">
+        <div class="tcenter">
+            <h2>Coisas que saíram do meu cérebro</h2>
+        </div>
+        <div class="linha">
+            {% for img in site.data.brain %}
+            {% assign mod = forloop.index0 | modulo: 5 %}
+            {% if mod == 0 %}
+        </div>
+        <div class="linha">
+            {% endif %}
+            <div class="container-img">
+                <a href="{{ img.link }}" target="blank"><img src="{{ img.link }}" alt="{{ img.nome }}" class="wallpaper imagem"/></a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
