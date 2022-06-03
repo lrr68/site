@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pastas=("fotos-skate" "images")
+pastas=$@
 for DIR in ${pastas[@]}
 do
 	for img in $(ls $DIR | grep png)

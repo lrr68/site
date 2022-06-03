@@ -7,15 +7,15 @@ title: Coisas que saíram do meu cérebro
         <div class="tcenter">
             <h2>Coisas que saíram do meu cérebro</h2>
         </div>
-        <div class="linha">
+        <div class="linha tcenter">
             {% for img in site.data.brain %}
             {% assign mod = forloop.index0 | modulo: 5 %}
             {% if mod == 0 %}
         </div>
-        <div class="linha">
+        <div class="linha tcenter">
             {% endif %}
             <div class="container-img">
-                <a href="{{ img.link }}" target="blank"><img src="{{ img.link }}" alt="{{ img.nome }}" class="wallpaper imagem"/></a>
+                <a href="{{ img.link }}" target="blank"><img src="{{ img.thumb }}" alt="{{ img.nome }}" class="wallpaper imagem"/></a>
             </div>
             {% endfor %}
         </div>
