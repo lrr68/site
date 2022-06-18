@@ -88,5 +88,6 @@ Especialmente:
 + Pacific Daydream - Weezer
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
++ Inferno de Kant - Kant
 
-Atualizado em 2022-05-04
+Atualizado em 2022-06-11
