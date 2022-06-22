@@ -9,10 +9,13 @@ title: Flores
         </div>
         {% for flor in site.data.flores %}
             {% assign mod = forloop.index0 | modulo: 2 %}
+            {% if mod > 0 %}
+                {% assign pracima = "pracima" %}
+            {% endif %}
             {% if mod == 0 %}
-                <div class="linha-na-direita">
+                <div class="linha-na-direita {{ pracima }}">
             {% else %}
-                <div class="linha-na-esquerda">
+                <div class="linha-na-esquerda {{ pracima }}">
             {% endif %}
                 <div class="container-flor">
                     <a href="{{ flor.link }}" target="blank"><img src="{{ flor.link }}" alt="{{ flor.nome }}" class="imagem"/></a>
