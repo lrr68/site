@@ -201,6 +201,9 @@ h2{
 .cool-yellow{
 	background-color: #f5efc7;
 }
+.light-pink{
+	background-color: #eb8ce4;
+}
 .turquoise{
 	color: #00ffd3;
 }
@@ -342,6 +345,13 @@ h2{
 	overflow: hidden;
 	margin: 2pt;
 }
+.container-flor{
+	width: 100%;
+	overflow: hidden;
+	margin: 2pt;
+	margin-left: -50%;
+	margin-right: -50%;
+}
 .imagem{
 	width: 100%;
 	height: 100%;
@@ -352,6 +362,18 @@ h2{
 	/* temporada 1 */
 	background-color: #ecb44d;
     box-shadow: 0px 0px 20px 20px #ff8100;
+}
+.linha-na-direita{
+	width: 100%;
+	display: inline-flex;
+	align-content: center;
+	justify-content: flex-end;
+}
+.linha-na-esquerda{
+	width: 100%;
+	display: inline-flex;
+	align-content: center;
+	justify-content: flex-start;
 }
 .linha{
 	width: 100%;
@@ -417,7 +439,6 @@ h2{
 		padding: 15px;
 		border: double;
 		border-width: 10px;
-
 	}
 	.back-button{
 		width: 150pt;

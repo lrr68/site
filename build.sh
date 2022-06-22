@@ -17,6 +17,14 @@ uploadarquivos()
 		echo "    link: /images/wallpapers/$FOTO" >> _data/wallpapers.yml
 		echo "" >> _data/wallpapers.yml
 	done
+
+	echo "" > _data/flores.yml
+	for FOTO in $(ls --sort=extension images/flores)
+	do
+		echo "-   nome: $FOTO" >> _data/flores.yml
+		echo "    link: /images/flores/$FOTO" >> _data/flores.yml
+		echo "" >> _data/flores.yml
+	done
 }
 
 updatedates()

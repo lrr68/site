@@ -1,0 +1,23 @@
+---
+layout: home
+title: Flores
+---
+<div class="main">
+    <div class="central neon light-pink">
+        <div class="tcenter">
+            <h2>Flores que eu desenho</h2>
+        </div>
+        {% for flor in site.data.flores %}
+            {% assign mod = forloop.index0 | modulo: 2 %}
+            {% if mod == 0 %}
+                <div class="linha-na-direita">
+            {% else %}
+                <div class="linha-na-esquerda">
+            {% endif %}
+                <div class="container-flor">
+                    <a href="{{ flor.link }}" target="blank"><img src="{{ flor.link }}" alt="{{ flor.nome }}" class="imagem"/></a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
