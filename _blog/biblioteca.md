@@ -15,6 +15,7 @@ Uma lista dos livros que tenho.
 + Dao de Jing - Laozi
 + Dez argumentos para você deletar agora suas redes sociais - Jaron Lanier
 + THE MUTT: How to skateboard and not kill yourself - Rodney Mullen e Sean Mortimer
++ The Box I call Life - Lily Lu
 + Morte no buraco negro - Neil deGrasse Tyson
 + O universo em uma casca de noz - Stephen Hawking
 + O espírito do Zen - Alan Watts L&PM
@@ -53,4 +54,4 @@ Uma lista dos livros que tenho.
 + Onde Está Wally? O Livro Maluco - Martin Handford
 + Onde Está Wally? O incrível livro de atividades 2,3 e 4 - Martin Handford
 
-Atualizado em 2021-08-24
+Atualizado em 2022-07-24
