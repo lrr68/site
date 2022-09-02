@@ -40,6 +40,8 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Pequeno Céu (2022/02/03) (a banda do meu professor de yoga, muito legal, e bem a vibe que quero pra quando for fazer música um dia)
 + Russian Circles (2022/04/12)
 + MC Sid (2022/04/26)
++ Jinjer (2022/08/31)
++ Polyphia (2022/09/01)
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -79,7 +81,7 @@ Especialmente:
 + Post Traumatic - Mike Shinoda
 + Hybrid Theory - Linkin Park
 + Chronologic - Caravan Palace
-+ Holy Land - Angra
++ Amo - Bring Me The Horizon
 
 ## Álbuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus álbuns preferidos.
 + Gateways - The Vintage Caravan
@@ -90,4 +92,4 @@ Especialmente:
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 + Inferno de Kant - Kant
 
-Atualizado em 2022-06-11
+Atualizado em 2022-09-02
