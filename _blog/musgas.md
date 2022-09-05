@@ -42,6 +42,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + MC Sid (2022/04/26)
 + Jinjer (2022/08/31)
 + Polyphia (2022/09/01)
++ Palace (2022/09/05) recomendação da Nai, curti mas é um gênero que não to muito na vibe ultimamente, me lembrou um pouco Alt-J, mas só algumas músicas. No geral posso dizer que gostei, especialmente do terceiro album que me lembrou mais post rock e me deu a sensação de ouvir músicas no espaço
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -92,4 +93,4 @@ Especialmente:
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 + Inferno de Kant - Kant
 
-Atualizado em 2022-09-02
+Atualizado em 2022-09-05
