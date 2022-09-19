@@ -5,25 +5,41 @@ uploadarquivos()
 	echo "" > _data/skate.yml
 	for FOTO in $(ls --sort=extension images/fotos-skate)
 	do
-		echo "-   nome: $FOTO" >> _data/skate.yml
-		echo "    link: /images/fotos-skate/$FOTO" >> _data/skate.yml
-		echo "" >> _data/skate.yml
+		{
+			echo "-   nome: $FOTO"
+			echo "    link: /images/fotos-skate/$FOTO"
+			echo ""
+		} >> _data/skate.yml
 	done
 
 	echo "" > _data/wallpapers.yml
 	for FOTO in $(ls --sort=extension images/wallpapers)
 	do
-		echo "-   nome: $FOTO" >> _data/wallpapers.yml
-		echo "    link: /images/wallpapers/$FOTO" >> _data/wallpapers.yml
-		echo "" >> _data/wallpapers.yml
+		{
+			echo "-   nome: $FOTO"
+			echo "    link: /images/wallpapers/$FOTO"
+			echo ""
+		} >> _data/wallpapers.yml
 	done
 
 	echo "" > _data/flores.yml
 	for FOTO in $(ls --sort=extension images/flores)
 	do
-		echo "-   nome: $FOTO" >> _data/flores.yml
-		echo "    link: /images/flores/$FOTO" >> _data/flores.yml
-		echo "" >> _data/flores.yml
+		{
+			echo "-   nome: $FOTO"
+			echo "    link: /images/flores/$FOTO"
+			echo ""
+		} >> _data/flores.yml
+	done
+
+	echo "" > _data/minhas_fotos.yml
+	for FOTO in $(ls --sort=extension images/minhas-fotos)
+	do
+		{
+			echo "-   nome: $FOTO"
+			echo "    link: /images/minhas-fotos/$FOTO"
+			echo ""
+		} >> _data/minhas_fotos.yml
 	done
 }
 
@@ -44,7 +60,7 @@ updatedates()
 uploadarquivos
 updatedates
 
-bundle update &&
+bundle install &&
 JEKYLL_ENV=production &&
 bundle exec jekyll build &&
 
