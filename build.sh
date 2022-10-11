@@ -41,6 +41,16 @@ uploadarquivos()
 			echo ""
 		} >> _data/minhas_fotos.yml
 	done
+
+	echo "" > _data/suspensao.yml
+	for FOTO in $(ls --sort=extension images/suspensao)
+	do
+		{
+			echo "-   nome: $FOTO"
+			echo "    link: /images/suspensao/$FOTO"
+			echo ""
+		} >> _data/suspensao.yml
+	done
 }
 
 updatedates()

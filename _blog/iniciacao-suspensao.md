@@ -16,6 +16,7 @@ Ficou um texto grande então se quiser ir diretamente pra alguma parte específi
 	<li><a href="#a-suspensao">A suspensão</a></li>
 	<li><a href="#pos-suspensao">Nem acredito que aconteceu</a></li>
 	<li><a href="#coisas">Coisas da minha iniciação</a></li>
+	<li><b><a href="/suspensao.html">Fotos e vídeos da suspensão (AVISO: TEM SANGUE E GANCHOS)</a></b></li>
 </ul>
 
 <h2 id="mas-porque">Mas Por quê????</h2>

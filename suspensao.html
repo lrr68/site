@@ -1,0 +1,32 @@
+---
+layout: gallery
+title: Minha iniciação na suspensão corporal
+---
+<div class="main">
+    <div id="grid" class="mauto central cool-red neon galeria">
+        <div class="tcenter">
+            <h2>Minha iniciação na suspensão corporal</h2>
+        </div>
+        <div class="linha tcenter">
+            {% for img in site.data.suspensao %}
+                {% assign title = img.nome | split: '.' %}
+                {% assign mod = forloop.index0 | modulo: 5 %}
+                {% if mod == 0 %}
+                    </div>
+                    <div class="linha tcenter">
+                {% endif %}
+                {% if title[1] == 'mp4' %}
+                    <div class="container-img">
+                        <video  class="w100 h100" controls preload="auto">
+                            <source src="{{ img.link }}" type="video/mp4">
+                        </video>
+                    </div>
+                {% else %}
+                    <div class="container-img">
+                        <a href="{{ img.link }}" target="blank"><img src="{{ img.link }}" alt="{{ img.nome }}" class="wallpaper imagem"/></a>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
