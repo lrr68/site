@@ -38,7 +38,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Skating Polly (2021/12/01) (procurando a banda de metal kamelot achei a musica camelot delas, amei amei, vocalista que lembra a Emma Stone + Zoey Deschannel e grita de um jeito muito legal)
 + Mamonas Assassinas (2021/12/22) (incrível, pena que não tem mais álbuns)
 + Pequeno Céu (2022/02/03) (a banda do meu professor de yoga, muito legal, e bem a vibe que quero pra quando for fazer música um dia)
-+ Russian Circles (2022/04/12)
++ Russian Circles (2022/10/07)
 + MC Sid (2022/04/26)
 + Jinjer (2022/08/31)
 + Polyphia (2022/09/01)
@@ -92,5 +92,6 @@ Especialmente:
 + The Calm before the Calm - The Lunar Effect
 + No Pisar El Infinito - Plus (a banda argentina que falei la em cima)
 + Inferno de Kant - Kant
++ New Levels New Devils - Polyphia
 
-Atualizado em 2022-09-05
+Atualizado em 2022-10-11

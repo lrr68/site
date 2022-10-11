@@ -450,9 +450,9 @@ h2{
 		left: 15pt;
 	}
 	.take-me-away > .window{
-		width: 80%;
+		width: 90%;
 		margin-bottom: 3%;
-		right: 10%;
+		left: 5%;
 		top: 10%;
 	}
 	.fotos > .window{

@@ -440,9 +440,6 @@ Update log:
 
 	/* This function illustrates how you can create a new custom window dynamically */
 
-
-	/* This function illustrates how you can create a new custom window dynamically */
-
 	function customFunctionCreateWindow(urlToExternalFile,width,height,left,top)
 	{
 
