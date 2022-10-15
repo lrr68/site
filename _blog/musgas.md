@@ -30,7 +30,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Warish (2021/08/31)
 + The Kooks (2021/09/01) (não gostei muito não viu, sei la, mas o album Alive foi o que achei melhor. Inclusive eu queria ouvir The Strokes e confundi com The Kooks, decepção em dobro)
 + Turnstile (2021/09/16)
-+ King Gizzard and the Lizard Wizard (2021/11/04) (essa demorou, mas gostei demais)
++ King Gizzard and the Lizard Wizard (2022/11/10) (essa demorou, mas gostei demais)
 + Imagine Dragons (2021/11/10) (muito música de cagar pelado pra mim, gostei beeem mais dos últimos 2 álbuns do que gostei dos primeiros álbuns, tem algumas musicas legais mas não é muito meu estilo. Os EPs me agradaram mais que os álbuns no geral)
 + Maroon 5 (2021/11/20) (curti muito Maroon 5, achei que não ia gostar mas achei muito bom. Os últimos 2 ou 3 álbuns não gostei, mas os primeiros eu amei)
 + Lucy in Blue (2021/11/22) (outra banda da Islândia muito boa, indicação do Stefan Ari num stories, curti demais, tem uma pegada meio jazz com rock e rock psicodélico)
@@ -43,6 +43,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Jinjer (2022/08/31)
 + Polyphia (2022/09/01)
 + Palace (2022/09/05) recomendação da Nai, curti mas é um gênero que não to muito na vibe ultimamente, me lembrou um pouco Alt-J, mas só algumas músicas. No geral posso dizer que gostei, especialmente do terceiro album que me lembrou mais post rock e me deu a sensação de ouvir músicas no espaço
++ Muse (2022/10/14) achei OK, tem uns albuns bem legais, mas no geral não me pegou muito não. É muito bom eu diria, mas não muito minha praia.
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -83,6 +84,7 @@ Especialmente:
 + Hybrid Theory - Linkin Park
 + Chronologic - Caravan Palace
 + Amo - Bring Me The Horizon
++ Station - Russian Circles
 
 ## Álbuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus álbuns preferidos.
 + Gateways - The Vintage Caravan
@@ -94,4 +96,4 @@ Especialmente:
 + Inferno de Kant - Kant
 + New Levels New Devils - Polyphia
 
-Atualizado em 2022-10-11
+Atualizado em 2022-10-15
