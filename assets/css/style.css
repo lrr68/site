@@ -421,12 +421,19 @@ h2{
 	height: 100%;
 }
 
-.linktree > li{
+.linktree{
+	padding-left: 0;
+}
+.linktree > a{
+	text-decoration: none;
+	color: #000;
+}
+.linktree > a > li{
 	display: block;
     margin: 15pt auto;
-    width: 70%;
+    width: 85%;
     background-color: #ecfcff;
-    padding: 25pt;
+    padding: 20pt;
     border-radius: 10pt;
     border: solid 2px #c7c7c7;
 }
