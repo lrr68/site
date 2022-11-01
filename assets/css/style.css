@@ -421,6 +421,16 @@ h2{
 	height: 100%;
 }
 
+.linktree > li{
+	display: block;
+    margin: 15pt auto;
+    width: 70%;
+    background-color: #ecfcff;
+    padding: 25pt;
+    border-radius: 10pt;
+    border: solid 2px #c7c7c7;
+}
+
 /*RESPONSIVE*/
 @media (max-width: 808px){
 	#salve-uriel{
