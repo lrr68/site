@@ -41,9 +41,10 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Russian Circles (2022/10/07)
 + MC Sid (2022/04/26)
 + Jinjer (2022/08/31)
-+ Polyphia (2022/09/01)
++ Polyphia (2022/10/28)
 + Palace (2022/09/05) recomendação da Nai, curti mas é um gênero que não to muito na vibe ultimamente, me lembrou um pouco Alt-J, mas só algumas músicas. No geral posso dizer que gostei, especialmente do terceiro album que me lembrou mais post rock e me deu a sensação de ouvir músicas no espaço
 + Muse (2022/10/14) achei OK, tem uns albuns bem legais, mas no geral não me pegou muito não. É muito bom eu diria, mas não muito minha praia.
++ Oh Hiroshima (2022/10/21) post-rock delicinha
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -55,8 +56,6 @@ Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora d
 ### Stoner rock
 Especialmente:
 + The Vintage Caravan
-+ Church of The Cosmic Skull
-+ 1000mods
 
 [Minha playlist de stoner rock no spotify](https://open.spotify.com/playlist/7xTQlsBEQ6UjkOw615iRL8?si=nWgN4xLLS62OSrd9NCJV0A)
 
@@ -85,6 +84,7 @@ Especialmente:
 + Chronologic - Caravan Palace
 + Amo - Bring Me The Horizon
 + Station - Russian Circles
++ Remember That You Will Die - Polyphia
 
 ## Álbuns que gostei muito e me marcaram de alguma forma. Essa lista mais a lista de cima forma a lista completa de meus álbuns preferidos.
 + Gateways - The Vintage Caravan
@@ -96,4 +96,4 @@ Especialmente:
 + Inferno de Kant - Kant
 + New Levels New Devils - Polyphia
 
-Atualizado em 2022-10-15
+Atualizado em 2022-11-01
