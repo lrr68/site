@@ -45,6 +45,7 @@ A listinha até agora, na ordem que ouvi (as datas não estão 100% precisas por
 + Palace (2022/09/05) recomendação da Nai, curti mas é um gênero que não to muito na vibe ultimamente, me lembrou um pouco Alt-J, mas só algumas músicas. No geral posso dizer que gostei, especialmente do terceiro album que me lembrou mais post rock e me deu a sensação de ouvir músicas no espaço
 + Muse (2022/10/14) achei OK, tem uns albuns bem legais, mas no geral não me pegou muito não. É muito bom eu diria, mas não muito minha praia.
 + Oh Hiroshima (2022/10/21) post-rock delicinha
++ Amenra (2022/11/29) demorou mas valeu a pena, nem são tantos albuns mas é uma vibe muito específica pra mim então ouvi devagarinho.
 
 Aqui vai uma listinha de outros artistas que já ouvi a discografia toda (fora de ordem, e tem mais, quando for lembrando vou adicionando).
 + Weezer
@@ -96,4 +97,4 @@ Especialmente:
 + Inferno de Kant - Kant
 + New Levels New Devils - Polyphia
 
-Atualizado em 2022-11-01
+Atualizado em 2022-11-29
