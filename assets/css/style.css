@@ -151,6 +151,10 @@ h2{
 	width: 24px;
 	vertical-align: middle;
 }
+.icone-grande{
+	width: 48px;
+	vertical-align: middle;
+}
 #random{
 	width: 485px;
 	position: absolute;
@@ -428,7 +432,7 @@ h2{
 	text-decoration: none;
 	color: #000;
 }
-.linktree > a > li{
+.linktree > a > li, .linktree > li{
 	display: block;
     margin: 15pt auto;
     width: 85%;
