@@ -38,6 +38,8 @@ Uma grande amiga me disse (várias vezes) que essa minha curiosidade ainda vai m
 
 É por esse motivo que procuro rituais e eventos que me mudem, que me façam mudar. Aprender a lidar comigo mesmo e com o desconhecido é algo importantíssimo pra mim, e as vezes é preciso algo tão insano, como uma suspensão corporal, pra me colocar nesse ponto.
 
+Um outro aprendizado que veio alguns meses depois da suspensão foi de apreciar as coisas só por apreciar, fazer por fazer. Eu não precisava ter feito essa suspensão, mas eu quis fazer e gastei tempo, dinheiro e esforço, senti dor, derramei sangue e fiz. De moto muito objetivista isso não mudou literalmente nada em minha vida, a não ser pelo fato de eu ter agora 8 cicatrizes em forma de pontinhos, 2 de cada gancho, mas a beleza da coisa, e de muita coisa na vida, é justamente essa. Foi o positivismo que meu pensamento niilista precisava pra eu continuar querendo viver e ter novas experiências. Se antes eu não tinha vontade de andar de skate por que não faz sentido aprender a se equilibrar numa tábua, agora eu acho incrível como as pessoas vão tão longe só pra se equilibrar bem em uma tábua.
+
 Dito isso, o texto que segue é um relato e contextualização de como foi minha iniciação na suspensão corporal.
 
 <h2 id="contexto">Como é que eu fui parar nesse mundo da suspensão?</h2>
@@ -73,4 +75,4 @@ E a título de curiosidade, a partir do momento que deitei pra passar os ganchos
 
 E na hora que eu desci da última suspensão, o Suicide, chegaram 2 viaturas e duas motos de polícia, simplesmente 6 policiais pra abordar a gente. O pessoal das casas em volta deve ter ligado falando que tavam sacrificando um menino,hfusdhauhsauhauhsauhdusahuahs. Os policiais pegaram meu documento e registraram e ficaram chocados com tudo isso, mas não deu nada.
 
-Atualizado em 2022-10-11
+Atualizado em 2023-02-27
