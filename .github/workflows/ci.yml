@@ -5,6 +5,8 @@ on:
 
 jobs:
   build:
+    runs:
+      using: 'node16'
     runs-on: ubuntu-latest
     environment: deploy
     steps:
