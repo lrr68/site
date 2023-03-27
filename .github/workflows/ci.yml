@@ -3,9 +3,9 @@ run-name: Jekyll Site deployment
 on:
   push:
 
-    jobs:
-      build:
-        runs-on: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
     environment: deploy
     steps:
       - name: Checkout the current branch
