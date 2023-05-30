@@ -53,7 +53,7 @@ Repete Verso (2X)
 Refrão:<br>
 E G B B A B B A B
 
-E G B B A (sai do powerchord para esse lick)</br>
+E G B B A (sai do powerchord para esse lick)<br>
 1|4L-2L-0----------------------------------------------<br>
 2|--------3-2------------------------------------------<br>
 3|------------4-2--------------------------------------<br>
