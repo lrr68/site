@@ -25,7 +25,6 @@ url_pds: "https://pds.luccaaugusto.xyz"
 url_port: "https://portfolio.luccaaugusto.xyz"
 url_mal: "https://myanimelist.net/profile/luccaugusto"
 url_letterboxd: "https://letterboxd.com/luccaugusto/"
-url_colab55: "https://www.colab55.com/@luccaugusto"
 user_mal: "luccaugusto"
 user_spot: "luccaugusto"
 user_letterboxd: "luccaugusto"
@@ -33,11 +32,6 @@ url_spot: "https://open.spotify.com/user/luccaugusto"
 url_linkedin: "https://www.linkedin.com/in/lucca-augusto-santos-b66416195"
 url_orkut: "https://www.orkut.br.com/MainProfile?uid=2736677"
 wish_amazon: "https://www.amazon.com.br/hz/wishlist/ls/YICR8H5942MX?ref_=wl_share"
-
-# Colab55 coupons
-coupon5off: Z6R2F5
-c55url5off: https://www.colab55.com?aff=z6r2f5
-c55url10conto: https://www.colab55.com/via/@luccaugusto
 
 # Build settings
 markdown: kramdown
