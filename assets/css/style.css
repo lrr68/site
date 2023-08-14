@@ -108,6 +108,12 @@ h2{
 	margin: 0 20px 20px 0;
 	position: relative;
 }
+.gongo-item{
+	width: 400px;
+	height: 400px;
+	display: inline-grid;
+	margin: 25px;
+}
 .item{
 	width: 400px;
 	height: 400px;
@@ -483,5 +489,10 @@ h2{
 	}
 	.mobile-hidden{
 		display:none;
+	}
+	.gongo-item{
+		width: unset;
+		height: unset;
+		margin: 0;
 	}
 }

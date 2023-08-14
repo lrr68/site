@@ -24,8 +24,25 @@ title: Você e o Gongo
                         <img class="icone-grande" src="/images/icons/deezer-icon.png"/></a>
                     </a>
                 </li>
+                <li>
+                    <a href="https://youtu.be/1ATgOpZeOLE" target="_blank">A Ciência por trás do Gongo parte 1</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/MKh47U306p8" target="_blank">A Ciência por trás do Gongo parte 2</a>
+                </li>
+                <li>
+                    <a href="https://youtu.be/s0w6qAzmwTo" target="_blank">Eu e o Gongo</a>
+                </li>
                 </br>
             </ul>
+            <h4>Um pequeno guia sobre as sessões de Gongo terapêutico</h4>
+            {% for img in site.data.gongo %}
+                <div class="gongo-item">
+                    <a href="{{ img.link }}" target="blank">
+                        <img src="{{ img.link }}" class="w100 h100" alt="{{ img.nome }}"/>
+                    </a>
+                </div>
+            {% endfor %}
         </div>
     </div>
 </div>
