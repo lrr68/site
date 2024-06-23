@@ -71,7 +71,6 @@ uploadarquivos
 updatedates
 
 bundle install &&
-JEKYLL_ENV=production &&
-bundle exec jekyll build &&
+JEKYLL_ENV=production bundle exec jekyll build &&
 
 cd _site && rm *.sh && cd ..

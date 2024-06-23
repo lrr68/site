@@ -1,5 +1,5 @@
 function piada() {
-	piadas = [
+	const piadas = [
 		"Por que os anões não podem morar sozinhos?</br>Eles não são a(u)lto-sufifientes.",
 		"Desde 1789 os franceses não investem nem um centavo em geração de energia elétrica, toda a energia deles vem da tomada da bastilha.",
 		"Se for sair hoje cuidado para não se machucar com as pancadas de chuva.",
@@ -18,7 +18,7 @@ function piada() {
 		"Não fui aceito numa entrevista de emprego por que não sou articulado o suficiente.</br>Colocar o pé atrás da cabeça foi demais pra mim.",
 		"Outro dia minha mãe queria fazer um chá e me pediu pra buscar umas folhas. Ela ficou muito confusa quando eu voltei da papelaria",
 	]
-	pPiada = document.getElementById('p-piada');
+	const pPiada = document.getElementById('p-piada');
 	if (pPiada) {
 		pPiada.innerHTML=piadas[Math.floor((Math.random() * (100))) % (piadas.length)];
 	}

@@ -1,22 +1,4 @@
 
--   nome: PDS_skull_flames_wallpaper.png
-    link: /images/wallpapers/PDS_skull_flames_wallpaper.png
-
--   nome: SalvoPeloGongo.png
-    link: /images/wallpapers/SalvoPeloGongo.png
-
--   nome: Suki.png
-    link: /images/wallpapers/Suki.png
-
--   nome: SynthwaveEh.png
-    link: /images/wallpapers/SynthwaveEh.png
-
--   nome: Unplug.png
-    link: /images/wallpapers/Unplug.png
-
--   nome: WaheYinGuruYang.png
-    link: /images/wallpapers/WaheYinGuruYang.png
-
 -   nome: angelbeats.png
     link: /images/wallpapers/angelbeats.png
 
@@ -26,11 +8,11 @@
 -   nome: kira.png
     link: /images/wallpapers/kira.png
 
--   nome: kugisaki-standing.png
-    link: /images/wallpapers/kugisaki-standing.png
-
 -   nome: kugisaki.png
     link: /images/wallpapers/kugisaki.png
+
+-   nome: kugisaki-standing.png
+    link: /images/wallpapers/kugisaki-standing.png
 
 -   nome: mitsuha2.png
     link: /images/wallpapers/mitsuha2.png
@@ -38,26 +20,41 @@
 -   nome: mitsuhafinal.png
     link: /images/wallpapers/mitsuhafinal.png
 
+-   nome: PDS_skull_flames_wallpaper.png
+    link: /images/wallpapers/PDS_skull_flames_wallpaper.png
+
 -   nome: rossy1.png
     link: /images/wallpapers/rossy1.png
 
--   nome: satoruGoujou.png
-    link: /images/wallpapers/satoruGoujou.png
+-   nome: SalvoPeloGongo.png
+    link: /images/wallpapers/SalvoPeloGongo.png
 
 -   nome: satoruGoujouCute.png
     link: /images/wallpapers/satoruGoujouCute.png
 
+-   nome: satoruGoujou.png
+    link: /images/wallpapers/satoruGoujou.png
+
 -   nome: skulls.png
     link: /images/wallpapers/skulls.png
 
+-   nome: Suki.png
+    link: /images/wallpapers/Suki.png
+
 -   nome: surrendertoneonsaturated.png
     link: /images/wallpapers/surrendertoneonsaturated.png
+
+-   nome: SynthwaveEh.png
+    link: /images/wallpapers/SynthwaveEh.png
 
 -   nome: toudou-close.png
     link: /images/wallpapers/toudou-close.png
 
 -   nome: toudou.png
     link: /images/wallpapers/toudou.png
+
+-   nome: Unplug.png
+    link: /images/wallpapers/Unplug.png
 
 -   nome: vaportv.png
     link: /images/wallpapers/vaportv.png
@@ -67,4 +64,7 @@
 
 -   nome: vidage.png
     link: /images/wallpapers/vidage.png
+
+-   nome: WaheYinGuruYang.png
+    link: /images/wallpapers/WaheYinGuruYang.png
 

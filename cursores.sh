@@ -13,15 +13,19 @@ for cur in $(ls cursores)
 do
 	if [ $COUNT == 1 ]
 	then
-		echo "    if (curs == "$COUNT") {" >> $JS
-		echo "        var elementToChange = document.getElementsByTagName('body')[0];" >> $JS
- 		echo "        elementToChange.style.cursor = \"url('/cursores/"$cur"'), auto\";" >> $JS
-		echo "    }" >> $JS
+		{
+			echo "    if (curs == \"$COUNT\") {"
+			echo "        var elementToChange = document.getElementsByTagName('body')[0];"
+			echo "        elementToChange.style.cursor = \"url('/cursores/\"$cur\"'), auto\";"
+			echo "    }"
+		} >> $JS
 	else
-		echo "    else if (curs == "$COUNT") {" >> $JS
-		echo "        var elementToChange = document.getElementsByTagName('body')[0];" >> $JS
- 		echo "        elementToChange.style.cursor = \"url('/cursores/"$cur"'), auto\";" >> $JS
-		echo "    }" >> $JS
+		{
+			echo "    else if (curs == \"$COUNT\") {"
+			echo "        var elementToChange = document.getElementsByTagName('body')[0];"
+			echo "        elementToChange.style.cursor = \"url('/cursores/\"$cur\"'), auto\";"
+			echo "    }"
+		} >> $JS
 	fi
 	COUNT=$((COUNT+1))
 done
